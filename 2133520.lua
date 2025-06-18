@@ -1,0 +1,10 @@
+-- Generated Lua Manifest by SB manifest
+-- AppID 2133520
+-- Name: Ertugrul of Ulukayin
+addappid(2133520) -- Ertugrul of Ulukayin
+addappid(2133521,0,"01a536a66993f6a86afe23e020ffb386621f7b1c33113b83fbebca5943dc0397") -- Depot 1 (2133521_1275269269826287828.manifest)
+setManifestid(2133521,"1275269269826287828")
+addappid(228989,0,"ad69276eb476cf06c40312df7376d63deac0c838b9a2767005be8bb306ffb853") -- Depot 2 (228989_550968249685141759.manifest)
+setManifestid(228989,"550968249685141759")
+addappid(228990,0,"44d8c45ce229a11c4f231a3d2a350eaf80b0d69a8af938ec7ccca720f694b0e8") -- Depot 3 (228990_1829726630299308803.manifest)
+setManifestid(228990,"1829726630299308803")
