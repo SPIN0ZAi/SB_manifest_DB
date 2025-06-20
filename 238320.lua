@@ -1,0 +1,8 @@
+-- Generated Lua Manifest by SB manifest
+-- AppID 238320
+-- Name: Outlast
+addappid(238320) -- Outlast
+addappid(238321,0,"4c6dde66a11fc24f39a7e16c0fd5027be8d4227e91867538aef8ee186568ec3a") -- Depot 1 (238321_8070241010372854777.manifest)
+setManifestid(238321,"8070241010372854777")
+addappid(273300,0,"ef20a5f980c8264317c95f217597a95cda9dd8e0de23d66237b0374e1b3b4b19") -- Depot 2 (273300_7518923783983972229.manifest)
+setManifestid(273300,"7518923783983972229")
