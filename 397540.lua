@@ -1,0 +1,8 @@
+-- Generated Lua Manifest by SB manifest
+-- AppID 397540
+-- Name: Borderlands 3
+addappid(397540) -- Borderlands 3
+addappid(397541,0,"88f77a801ca63cd0492b040858a57b62b748c774c5a1046d397b58b0c2cf836c") -- Depot 1 (397541_5617306984760466681.manifest)
+setManifestid(397541,"5617306984760466681")
+addappid(397542,0,"64915689531d1c5e242ad493e198ee1a61a5757f84de8ed77e09f08a76c30847") -- Depot 2 (397542_4886068445610784807.manifest)
+setManifestid(397542,"4886068445610784807")
