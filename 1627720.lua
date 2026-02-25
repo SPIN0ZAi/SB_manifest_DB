@@ -7,6 +7,7 @@
 -- Generated Lua Manifest by SB manifest
 -- AppID 1627720
 -- Name: Lies of P
+-- Updated: February 25, 2026 at 05:46:59 PM GMT+1
 addappid(1627720) -- Lies of P
 addappid(228989,0,"ad69276eb476cf06c40312df7376d63deac0c838b9a2767005be8bb306ffb853") -- Depot 1 (228989_3514306556860204959.manifest)
 setManifestid(228989,"3514306556860204959")
@@ -16,3 +17,8 @@ addappid(228990,0,"44d8c45ce229a11c4f231a3d2a350eaf80b0d69a8af938ec7ccca720f694b
 setManifestid(228990,"1829726630299308803")
 addappid(1627721,0,"d847ff3494ad5b72d69b7b38c52474fdb22d437421b569013dd1508d8879f7c1") -- Depot 4 (1627721_8016983253808484576.manifest)
 setManifestid(1627721,"8016983253808484576")
+
+-- DLCS WITHOUT DEDICATED DEPOTS
+addappid(2848330) -- Lies of P: Overture
+addappid(2325281) -- Lies of P: Prince of Krat Cosmetics Pack
+addappid(1938420) -- Lies of P : Soundtrack
