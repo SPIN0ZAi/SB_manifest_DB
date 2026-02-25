@@ -7,6 +7,7 @@
 -- Generated Lua Manifest by SB manifest
 -- AppID 1588550
 -- Name: Cairn
+-- Updated: February 25, 2026 at 06:02:48 PM GMT+1
 addappid(1588550, 1, "9fdaabf80001d2f849f78555b34c5634ca0aa6ab5c89c74050d230fd44572ea8") -- Cairn
 -- MAIN APP DEPOTS
 addappid(1588551, 1, "4ce5dce22497dfd82c8fc6fc3a6f0c4f9961a811d460ab7ab6a590b717cae583") -- Depot 1588551
@@ -19,3 +20,7 @@ setManifestid(228989, "3514306556860204959", 39590283)
 addappid(4031100)
 addappid(4031101, 1, "a7b1bec9765224ce4eb45fd57d5111b7625aa4f21fd5a64f8f5a13851c770abe") -- Cairn - Deluxe Upgrade Pack - Depot 4031101
 setManifestid(4031101, "6645330320897889494", 21054175)
+
+-- DLCS WITHOUT DEDICATED DEPOTS
+addappid(4207340) -- Cairn - Original Soundtrack
+addappid(3937220) -- Only the Mountain from Cairn Soundtrack
